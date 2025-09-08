@@ -1,0 +1,4 @@
+Scenario,Slope,R²,Samples,Plot Path
+All data,-1.3841726726262105,0.7213852345668008,1441,week-7-outputs/scenario_A_all.png
+Trim 5%,-1.3918474840061836,0.7119521692851255,1387,week-7-outputs/scenario_B_trim5.png
+Trim 10%,-1.3727506885352245,0.6827202169754203,1183,week-7-outputs/scenario_C_trim10.png
